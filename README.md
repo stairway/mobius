@@ -1,6 +1,4 @@
-mobius
-======
+# mobius
 
-Javascript Mobile Framework
-
-[Try Me!](http://mobius.andrewjhaller.com/)
+## Javascript Mobile Framework
+Compatible with symbian os
